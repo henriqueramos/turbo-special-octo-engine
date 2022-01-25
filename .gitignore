@@ -1,0 +1,6 @@
+vendor
+!coverage/html/.gitkeep
+!coverage/tmp/.gitkeep
+coverage/html/*
+coverage/tmp/*
+.phpunit.result.cache
